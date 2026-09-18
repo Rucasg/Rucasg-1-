@@ -2,5 +2,5 @@
 
 int mian(void)
 {
-	printf("hello");
+	printf("hello world");
 }
